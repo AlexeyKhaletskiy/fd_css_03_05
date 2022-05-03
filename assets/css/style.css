@@ -1,0 +1,43 @@
+body{
+  background-color:aqua;
+}
+.main-heaing{
+  font-size: 48px;
+  font-weight: 400;
+  font-family: 'Water Brush', cursive;
+  font-style: italic;
+  letter-spacing: 0.1em;
+
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+.page-link{
+  background-color: #fff;
+  color: red;
+  font-family: 'Lato';
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: normal;
+  text-transform: lowercase;
+
+}
+
+  .art-heading{
+    background-color: firebrick;
+    font-family: 'Lato',sans-serif;
+    font-style: italic;
+    text-align: right;
+    text-transform: uppercase;
+  }
+
+
+.artcontent{
+  color: blueviolet;
+
+  font-size: 16px;
+  line-height: 1.3em;
+  text-align: justify;
+  text-indent: 2em;
+
+}
